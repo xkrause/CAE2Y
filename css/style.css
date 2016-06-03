@@ -305,6 +305,7 @@ ul#menu li:hover a
   height: 15px;
   width: 90px;
   padding: 5px 5px 10px 7px;
+  color: green;
   background: green;
   background: -moz-linear-gradient(green, green);
   background: -o-linear-gradient(green, green);
